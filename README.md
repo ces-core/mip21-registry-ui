@@ -1,17 +1,17 @@
-# chainlog-ui
-UI and API for MakerDAO’s chainlog contract
+# mip21-registry-ui
+UI and API for MakerDAO’s Rwa Registry (MIP21 Registry) contract
 
 ## Production environment
 
-* [chainlog.makerdao.com](https://rwaregistrymakerdao.com)
-* [chainlog.makerdao.com/api.html](https://rwaregistry.makerdao.com/api.html)
-* chainlog.makerdao.com/checksum/\<address\>
+* [rwaregistry.makerdao.com](https://rwaregistry.makerdao.com)
+* [rwaregistry.makerdao.com/api.html](https://rwaregistry.makerdao.com/api.html)
+* rwaregistry.makerdao.com/checksum/\<address\>
 
 ## Staging environment
 
-* [chainlog-staging.makerdao.com](https://rwaregistry-staging.makerdao.com)
-* [chainlog-staging.makerdao.com/api.html](https://rwaregistry-staging.makerdao.com/api.html)
-* chainlog-staging.makerdao.com/checksum/\<address\>
+* [rwaregistry-staging.makerdao.com](https://rwaregistry-staging.makerdao.com)
+* [rwaregistry-staging.makerdao.com/api.html](https://rwaregistry-staging.makerdao.com/api.html)
+* rwaregistry-staging.makerdao.com/checksum/\<address\>
 
 ## Deployment strategy
 
